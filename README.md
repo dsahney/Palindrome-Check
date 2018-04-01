@@ -1,8 +1,7 @@
-A palindrome is a sequence of letters, in which they act as a "mirror" for example, the string 'rtytr' is a palindrome the reason is because the first and last indices are 'r'
-# second and second last indices are 't'
-# etc. etc.
+This project is one that is based off a problem I worked on while enroled in a certificate course on Coursera by the University of Toronto, known as Learn to Program: Crafting Quality Code.
 
-# the string 'apple' is not a palindrome.
+A palindrome is a sequence of letters, which are the same when read backwards or forwards.
+For example, the string 'rtytr' is a palindrome, because whether it is read from the front or the back, they will be the same string. 
+The string 'apple' is not a palindrome. 
 
-# I will create a function that determines whether a string is a palindrome.
-# I will design three algorithms
+In this repository, I have created functions that determine whether a string is an algorithm or not, using three algorithms that accomplish the same task in three different ways.
