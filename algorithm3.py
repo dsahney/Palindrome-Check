@@ -9,7 +9,7 @@ def pal_check_3(s):
     '''
     i = 0
     j = len(s) - 1
-    while i<j and s[i] == s[j]:
+    while i < j and s[i] == s[j]:
         i += 1
         j -= 1
     return j <= i
