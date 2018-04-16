@@ -4,4 +4,6 @@ A palindrome is a sequence of letters, which are the same when read backwards or
 For example, the string 'rtytr' is a palindrome, because whether it is read from the front or the back, they will be the same string. 
 The string 'apple' is not a palindrome. 
 
-In this repository, I have created functions that determine whether a string is an algorithm or not, using three algorithms that accomplish the same task in three different ways.
+In this repository, I have created functions that determine whether a string is an palindrome or not, using three algorithms that accomplish the same task in three different ways.
+
+I have also created automated test cases using unit test.
